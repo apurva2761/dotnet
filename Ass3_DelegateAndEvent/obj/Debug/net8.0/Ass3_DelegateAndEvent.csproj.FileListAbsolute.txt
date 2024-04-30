@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\bin\Debug\net8.0\Ass3_DelegateAndEvent.exe
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\bin\Debug\net8.0\Ass3_DelegateAndEvent.deps.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\bin\Debug\net8.0\Ass3_DelegateAndEvent.runtimeconfig.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\bin\Debug\net8.0\Ass3_DelegateAndEvent.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\bin\Debug\net8.0\Ass3_DelegateAndEvent.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.AssemblyInfo.cs
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\refint\Ass3_DelegateAndEvent.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\Ass3_DelegateAndEvent.genruntimeconfig.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass3_DelegateAndEvent\obj\Debug\net8.0\ref\Ass3_DelegateAndEvent.dll
