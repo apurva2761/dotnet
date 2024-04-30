@@ -1,0 +1,7 @@
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\bin\Debug\Serialization_Deserailization.exe.config
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\bin\Debug\Serialization_Deserailization.exe
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\bin\Debug\Serialization_Deserailization.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\obj\Debug\Serialization_Deserailization.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\obj\Debug\Serialization_Deserailization.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\obj\Debug\Serialization_Deserailization.exe
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Serialization_Deserailization\obj\Debug\Serialization_Deserailization.pdb
