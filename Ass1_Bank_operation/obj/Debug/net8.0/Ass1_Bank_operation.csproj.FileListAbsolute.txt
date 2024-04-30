@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\bin\Debug\net8.0\Ass1_Bank_operation.exe
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\bin\Debug\net8.0\Ass1_Bank_operation.deps.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\bin\Debug\net8.0\Ass1_Bank_operation.runtimeconfig.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\bin\Debug\net8.0\Ass1_Bank_operation.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\bin\Debug\net8.0\Ass1_Bank_operation.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.AssemblyInfo.cs
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\refint\Ass1_Bank_operation.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\Ass1_Bank_operation.genruntimeconfig.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass1_Bank_operation\obj\Debug\net8.0\ref\Ass1_Bank_operation.dll
