@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\bin\Debug\net8.0\Ass4_file_Logger.exe
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\bin\Debug\net8.0\Ass4_file_Logger.deps.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\bin\Debug\net8.0\Ass4_file_Logger.runtimeconfig.json
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\bin\Debug\net8.0\Ass4_file_Logger.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\bin\Debug\net8.0\Ass4_file_Logger.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.AssemblyInfo.cs
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\refint\Ass4_file_Logger.dll
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.pdb
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\Ass4_file_Logger.genruntimeconfig.cache
+C:\Users\IET\Desktop\PRN-240345920077\DOTNET_Assignments\Ass4_file_Logger\obj\Debug\net8.0\ref\Ass4_file_Logger.dll
